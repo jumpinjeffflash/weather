@@ -1,2 +1,2 @@
 # weather
-Tracks severe weather is USA, as well as sharing data on hurricanes from previous years
+Tracks severe weather across USA (from current day to five days ahead). It also shares data on notable hurricanes from previous years.
