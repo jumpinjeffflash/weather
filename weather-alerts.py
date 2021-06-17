@@ -63,7 +63,7 @@ if option == 'Historical Hurricanes/Storms':
     st.image('https://i.ibb.co/Chkf9hK/hurricane-wilma-2005.png')
     st.write("""Hurricane Wilma was the most intense tropical cyclone ever recorded in the Atlantic basin, and the second-most intense tropical cyclone recorded in the Western Hemisphere, after Hurricane Patricia in 2015. Part of the record-breaking 2005 Atlantic hurricane season, which included three of the ten most intense Atlantic hurricanes ever, Wilma was the twenty-second storm, thirteenth hurricane, sixth major hurricane, fourth Category 5 hurricane, and the second-most destructive hurricane of the 2005 season.""")
     
-    st.write("""### Hurrican Rita (September 2005)""")
+    st.write("""### Hurricane Rita (September 2005)""")
     st.image('https://i.ibb.co/41gGfvy/hurricane-rita-2005.png')
     st.write("""Hurricane Rita was the most intense tropical cyclone on record in the Gulf of Mexico and the fourth-most intense Atlantic hurricane ever recorded. Part of the record-breaking 2005 Atlantic hurricane season, which included three of the top ten most intense Atlantic hurricanes ever recorded (along with #1 Wilma and #7 Katrina), Rita was the seventeenth named storm, tenth hurricane, and fifth major hurricane of the 2005 season. Resulting from heavy destruction on the Gulf Coast, the name Rita was retired in the spring of 2006, and will never again be used for an Atlantic hurricane. It was replaced by Rina for the 2011 Atlantic hurricane season's list.""")
     
